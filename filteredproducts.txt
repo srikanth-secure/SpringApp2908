@@ -1,0 +1,1 @@
+Product [productId=104, productName=CPU, productPrice=9000.0]
